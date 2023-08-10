@@ -12,3 +12,9 @@ Después de clonar el repositorio usted debería ejecutar el siguiente comando:
 ```
 pre-commit install
 ```
+
+Para generar la documentación del proyecto se utiliza el siguiente comando:
+
+```
+make doc
+```
